@@ -2,21 +2,22 @@
 
 🎓 **Student @ Colgate University**  
 📚 **Major:** Applied Mathematics, Computer Science  
-🔬 **Interests:** Software Development, Machine Learning, Cybersecurity
+🔬 **Interests:** Smart Contract Development, Software Development, Machine Learning
 
 ---
 
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** Python, Java, Rust, Bash
+- **Programming Languages:** Solidity, Python, Java Script, Java, Git, Bash, HTML, CSS
 
 - **Tools & Platforms:** Git, AWS, Linux, Neovim
-- **Learning:** C++
+  
+- **Learning:** Solidity
 
 ---
 
 ## 🌱 What I'm Learning
 
-Currently diving deeper into AWS.
+Currently diving deeper into Solidity & Smart Contract development.
 
