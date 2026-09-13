@@ -1,73 +1,22 @@
-# 👋 Hi, I'm Alex Bogush!
+# Alex Bogush
 
-🎓 **Student @ Colgate University**  
-💻 **Major:** Applied Mathematics & Computer Science  
-🔒 **Focus Areas:** Cybersecurity, Offensive Security, Reverse Engineering, Exploit Development  
-🏆 **Interests:** CTF Challenges, Malware Analysis, OSCP Preparation
+Backend / full-stack software engineer. I like building production systems end to end and running them for real users — APIs, data models, payments, real-time pipelines, and the infra under them.
 
----
+- 🚀 **Building & operating X1 Voice** — a multi-tenant AI voice-ordering SaaS live in 5 restaurants. TypeScript/Node backend (291-endpoint Express API over a 62-table PostgreSQL schema, Drizzle ORM), real-time Twilio ↔ ElevenLabs voice over WebSockets, POS integrations, and metered Stripe billing.
+- 🎬 **Also shipping** a self-hosted generative-video pipeline — 16 containers, 16 async job lanes over PostgreSQL (`FOR UPDATE SKIP LOCKED`), open-weight models on rented GPUs, and an automated computer-vision quality gate.
+- 🎓 **B.A. Computer Science, Colgate University** (May 2027), 3.81 GPA.
+- 💬 Open to backend / full-stack software engineering roles.
 
-## 🛠 Technologies & Tools
+### Tech I reach for
 
-### **Programming & Scripting**
-- Python  
-- C  
-- C++  
-- Bash  
-- Java  
-- JavaScript  
-- Dart / Flutter  
-- React  
-- React Native  
-- Assembly (x86_64, ARM64)
+| | |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Python · Java · C · C++ · SQL · Bash |
+| **Backend** | Node.js · Express · PostgreSQL · pgvector · Redis · Drizzle ORM · REST · WebSockets |
+| **Frontend** | React · React Native · Next.js · Tailwind CSS |
+| **Infra** | Docker · AWS · Linux · Caddy · Git · n8n |
+| **AI** | LLM APIs (Claude / GPT / Gemini) · PyTorch · ComfyUI · vector search |
 
-### **Cybersecurity & Low-Level Tools**
-- Ghidra  
-- x64dbg  
-- Radare2  
-- Burp Suite  
-- Wireshark  
-- Nmap  
-- Metasploit  
-- Pwntools  
-- SysWhispers  
-- PE-bear  
-- Custom shellcode tooling  
-- Linux (Debian / Arch)  
-- Windows internals, WinAPI, remote thread hijacking
+### Elsewhere
 
-### **Platforms & Cloud**
-- Git  
-- GitHub  
-- macOS  
-- Linux  
-- Docker  
-- AWS  
-- Firebase  
-- VS Code / Neovim  
-
----
-
-## 🔐 What I'm Working On
-
-- Preparing for the **OSCP**  
-- Building internal tooling for reverse engineering and payload development  
-- Working through CTF challenges (pwn, reversing, web, crypto)  
-- Experimenting with thread injection, privilege drop, and evasive techniques on Windows  
-- Strengthening exploit development fundamentals (buffer overflows, ROP, custom shellcode)
-
----
-
-## 🧩 Current Interests
-
-- Reverse engineering Windows PE internals  
-- Malware unpacking and instrumentation  
-- Network protocol manipulation  
-- Binary exploitation on Linux and Windows  
-- Secure systems design and sandboxing  
-
----
-
-## 📫 Connect
-
-Feel free to reach out if you want to collaborate on cybersecurity projects, CTF teams, or exploit dev practice.
+[LinkedIn](https://linkedin.com/in/aebogush) · abogush@colgate.edu
